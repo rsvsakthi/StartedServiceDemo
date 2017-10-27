@@ -8,4 +8,4 @@ This directory holds the sample project for the [creating a started service sect
 Authors
 -------
 
-Tom Opgenorth (toopge@microsoft.com)
+Sakthi (rsvsakthi@gmail.com)
