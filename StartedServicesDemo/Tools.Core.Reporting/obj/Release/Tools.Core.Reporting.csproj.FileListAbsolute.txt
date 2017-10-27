@@ -1,0 +1,3 @@
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/bin/Release/Tools.Core.Reporting.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/obj/Release/Tools.Core.Reporting.csproj.CoreCompileInputs.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/obj/Release/Tools.Core.Reporting.dll

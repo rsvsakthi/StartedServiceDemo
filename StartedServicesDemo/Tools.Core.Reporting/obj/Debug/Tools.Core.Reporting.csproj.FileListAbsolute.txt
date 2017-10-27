@@ -1,0 +1,5 @@
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/bin/Debug/Tools.Core.Reporting.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/bin/Debug/Tools.Core.Reporting.pdb
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/obj/Debug/Tools.Core.Reporting.csproj.CoreCompileInputs.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/obj/Debug/Tools.Core.Reporting.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Reporting/obj/Debug/Tools.Core.Reporting.pdb

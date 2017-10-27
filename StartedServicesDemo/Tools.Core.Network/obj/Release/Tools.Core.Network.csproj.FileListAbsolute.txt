@@ -1,0 +1,7 @@
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Release/Tools.Core.Network.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Release/Newtonsoft.Json.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Release/Tools.Core.Reporting.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Release/Newtonsoft.Json.xml
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Release/Tools.Core.Network.csprojResolveAssemblyReference.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Release/Tools.Core.Network.csproj.CoreCompileInputs.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Release/Tools.Core.Network.dll

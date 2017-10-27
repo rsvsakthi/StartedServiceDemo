@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{05DAB32E-1F15-4E61-91CE-0D658503ED2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.StartedServicesDemo AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BootComplete.cs" Line="28" Column="10" />
+      <File FileName="Tools.Core.Network/SubmissionObject.cs" Line="1" Column="1" />
+      <File FileName="Tools.Core.Reporting/Model/LogModel.cs" Line="27" Column="13" />
+      <File FileName="Tools.Core.Network/NetworkManager.cs" Line="45" Column="44" />
+      <File FileName="TimestampService.cs" Line="53" Column="1" />
+      <File FileName="STLocationListener.cs" Line="10" Column="56" />
+      <File FileName="Resources/values/Strings.xml" Line="6" Column="44" />
+      <File FileName="MainActivity.cs" Line="80" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StartedServicesDemo" expanded="True">
+            <Node name="StartedServicesDemo" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/NetworkManager.cs" relfile="Network/NetworkManager.cs" line="30" column="1" />
+      <Breakpoint enabled="false" file="/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/NetworkManager.cs" relfile="Network/NetworkManager.cs" line="62" column="1" />
+      <Breakpoint file="/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/TimestampService.cs" relfile="TimestampService.cs" line="53" column="1" />
+      <Breakpoint file="/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/TimestampService.cs" relfile="TimestampService.cs" line="179" column="1" />
+      <Breakpoint file="/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/TimestampService.cs" relfile="TimestampService.cs" line="195" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../DevBranch/SimplerTools.Ios/Controllers/LookUpViewController.cs" line="95" offsetX="372" offsetY="1410" expression="oldview" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>

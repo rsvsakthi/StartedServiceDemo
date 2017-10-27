@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartedServicesDemo", "StartedServicesDemo.csproj", "{05DAB32E-1F15-4E61-91CE-0D658503ED2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Core.Reporting", "Tools.Core.Reporting\Tools.Core.Reporting.csproj", "{CDD3CBFF-EDF1-46DE-B915-DEE17A65CEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Core.Network", "Tools.Core.Network\Tools.Core.Network.csproj", "{9D0C60D1-FDC0-4D5C-9DEA-E08E853DFC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DAB32E-1F15-4E61-91CE-0D658503ED2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DAB32E-1F15-4E61-91CE-0D658503ED2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DAB32E-1F15-4E61-91CE-0D658503ED2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DAB32E-1F15-4E61-91CE-0D658503ED2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD3CBFF-EDF1-46DE-B915-DEE17A65CEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD3CBFF-EDF1-46DE-B915-DEE17A65CEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD3CBFF-EDF1-46DE-B915-DEE17A65CEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD3CBFF-EDF1-46DE-B915-DEE17A65CEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0C60D1-FDC0-4D5C-9DEA-E08E853DFC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0C60D1-FDC0-4D5C-9DEA-E08E853DFC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0C60D1-FDC0-4D5C-9DEA-E08E853DFC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0C60D1-FDC0-4D5C-9DEA-E08E853DFC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

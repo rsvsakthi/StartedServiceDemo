@@ -1,0 +1,10 @@
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Debug/Tools.Core.Network.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Debug/Tools.Core.Network.pdb
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Debug/Newtonsoft.Json.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Debug/Tools.Core.Reporting.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Debug/Tools.Core.Reporting.pdb
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/bin/Debug/Newtonsoft.Json.xml
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Debug/Tools.Core.Network.csprojResolveAssemblyReference.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Debug/Tools.Core.Network.csproj.CoreCompileInputs.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Debug/Tools.Core.Network.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Tools.Core.Network/obj/Debug/Tools.Core.Network.pdb

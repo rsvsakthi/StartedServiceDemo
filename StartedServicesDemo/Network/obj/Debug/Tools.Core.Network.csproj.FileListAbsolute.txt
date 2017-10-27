@@ -1,0 +1,9 @@
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/bin/Debug/Network.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/bin/Debug/Network.pdb
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/bin/Debug/Newtonsoft.Json.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/bin/Debug/Tools.Core.Reporting.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/bin/Debug/Tools.Core.Reporting.pdb
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/bin/Debug/Newtonsoft.Json.xml
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/obj/Debug/Tools.Core.Network.csproj.CoreCompileInputs.cache
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/obj/Debug/Network.dll
+/Users/sakthivelr/Downloads/workspace/StartedServicesDemo/Network/obj/Debug/Network.pdb
