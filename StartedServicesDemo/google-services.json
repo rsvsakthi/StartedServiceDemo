@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "290993925121",
+    "firebase_url": "https://startedservicedemo.firebaseio.com",
+    "project_id": "startedservicedemo",
+    "storage_bucket": "startedservicedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290993925121:android:de6a69191e75ba65",
+        "android_client_info": {
+          "package_name": "com.xamarin.xample.startedservicesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290993925121-n59v00edqau0rj819qk7h1svclf7qvlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDuqPVsnXkzp3xDrzJn2G5uBsDz6Sy_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
